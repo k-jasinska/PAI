@@ -1,0 +1,30 @@
+.color{
+    max-width:300px;
+    height:200px;
+    border: 1px solid #666;
+    border-radius: 5px;
+    overflow:hidden;
+    margin:20px 20px;
+}
+.color:hover{
+    cursor: pointer;
+}
+
+.green{
+    background-image: url("background/green.jpg");
+}
+.blue{
+    background-image: url("background/blue.jpg");
+}
+.brown{
+    background-image: url("background/brown.jpg");
+}
+.soft{
+    background-image: url("background/soft.png");
+}
+.piana{
+    background-image: url("background/piana.jpg");
+}
+.pioro{
+    background-image: url("background/pioro.jpg");
+}
